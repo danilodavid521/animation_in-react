@@ -10,6 +10,12 @@
 
 👩‍💻 HINA KHADIM 🇵🇰 🇵🇰
 
-- Github : [@Hina-softwareEngineer](https://github.com/Hina-softwareEngineer)
+⚡️ If you want to contribute, feel free to make a Pull Request ✨✨.
 
-> If you want to contribute, feel free to make a Pull Request ✨✨.
+⚡️ Refactoring
+
+⚡️ Add more features
+
+⚡️ Documentation
+
+⚡️ Issues
